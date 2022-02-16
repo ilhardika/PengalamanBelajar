@@ -1,1 +1,2 @@
 halo, ini adalah contoh file tambahan untuk branch development
+contoh conflict
